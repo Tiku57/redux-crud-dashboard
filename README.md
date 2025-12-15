@@ -100,6 +100,5 @@ src/
 
 ## 👤 Author
 
-**Tiku57**
-
+**Aaditya Sattawan**
 GitHub: https://github.com/Tiku57
